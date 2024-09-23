@@ -46,9 +46,13 @@ Feel free to explore my repositories and connect with me on [LinkedIn](https://w
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gopinath5796&layout=compact&theme=radical)
 
-## 🔝 Top Contributed Repo:
+## 🔝 Top Contributed Repos:
 
-[![Top Contributed Repo](https://github-readme-stats.vercel.app/api/pin/?username=gopinath5796&repo=gopinath5796&theme=radical)](https://github.com/gopinath5796/gopinath5796)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=gopinath5796&repo=python-class-notes-1&theme=radical)](https://github.com/gopinath5796/python-class-notes)  
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=gopinath5796&repo=repo-name-2&theme=radical)](https://github.com/gopinath5796/repo-name-2)  
+[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=gopinath5796&repo=repo-name-3&theme=radical)](https://github.com/gopinath5796/repo-name-3)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=gopinath5796&repo=repo-name-2&theme=radical)](https://github.com/gopinath5796/repo-name-4)  
+[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=gopinath5796&repo=repo-name-3&theme=radical)](https://github.com/gopinath5796/repo-name-5)
 
 
 
