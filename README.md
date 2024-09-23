@@ -8,7 +8,7 @@ I am **Gopinath Ponnusamy**, a Data Scientist based in Coimbatore, currently wor
 
 - 🧠 **Machine Learning**: Developing, fine-tuning, and deploying models for various applications, from classification to regression tasks.
 - 🤖 **Deep Learning**: Applying neural networks for image recognition, NLP, and predictive modeling.
-- 📊 **Time Series Analysis**: Analyzing and forecasting temporal data to detect patterns and make predictions using ARIMA, LSTM, and other time series techniques.
+- 📊 **Time Series Analysis**: Analyzing and forecasting temporal data to detect patterns and make predictions using ARIMA, ARMA, SARIMA and other time series techniques.
 - 🧮 **Data Analysis**: Performing exploratory data analysis (EDA), data preprocessing, and feature engineering to extract valuable insights.
 - 🛠️ **AI Solutions**: Creating intelligent systems for businesses to automate decision-making processes.
 - 🐍 **Python Programming**: Proficient in libraries like NumPy, Pandas, Scikit-learn, TensorFlow, and Keras.
@@ -40,12 +40,12 @@ Feel free to explore my repositories and connect with me on [LinkedIn](https://w
 
 ## 📊 GitHub Stats:
 
-![Gopinath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Gopinath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gopinath5796&show_icons=true&theme=radical)
 
-![Gopinath's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
+![Gopinath's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gopinath5796&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gopinath5796&layout=compact&theme=radical)
 
 ## 🔝 Top Contributed Repo:
 
-[![Top Contributed Repo](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO&theme=radical)](https://github.com/YOUR_USERNAME/YOUR_REPO)
+[![Top Contributed Repo](https://github-readme-stats.vercel.app/api/pin/?username=gopinath5796&repo=YOUR_REPO&theme=radical)](https://github.com/YOUR_USERNAME/YOUR_REPO)
