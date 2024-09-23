@@ -22,6 +22,6 @@ Here, you'll find a collection of my projects, including:
 - 💬 **Natural Language Processing**: Sentiment analysis, text classification, and chatbots.
 - ⏳ **Time Series Forecasting**: Projects involving time series analysis for business forecasting and trend prediction.
 
-Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/gopinathponnusamy).
+Feel free to explore my repositories and connect with me on [LinkedIn]([https://www.linkedin.com/in/gopinathponnusamy](https://www.linkedin.com/in/gopinath-ponnusamy-g77492/)).
 
 💼 Let’s collaborate and innovate together!
