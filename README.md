@@ -49,3 +49,8 @@ Feel free to explore my repositories and connect with me on [LinkedIn](https://w
 ## 🔝 Top Contributed Repo:
 
 [![Top Contributed Repo](https://github-readme-stats.vercel.app/api/pin/?username=gopinath5796&repo=YOUR_REPO&theme=radical)](https://github.com/YOUR_USERNAME/YOUR_REPO)
+
+### 🐍 Snake Game
+
+![Snake animation](https://github.com/gopinath5796/gopinath5796/blob/output/github-contribution-grid-snake.svg)
+
